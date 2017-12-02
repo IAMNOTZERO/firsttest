@@ -1,0 +1,4 @@
+for value in range(1,34):
+ print(value)
+numbers=list(range(1,34))
+print(numbers)
